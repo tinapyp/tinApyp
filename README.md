@@ -25,7 +25,7 @@ Proficient in the following tools and technologies:
 
 I'm open to new opportunities and collaborations. Let's connect and discuss how we can leverage data for informed decision-making!
 
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fathin-afif)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fathinafiff)
 - 🌐 Website: [My Portfolio Website](http://fathinafif.github.io/)
 
 Looking forward to connecting with you! 🌟
