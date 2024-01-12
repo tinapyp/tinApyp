@@ -1,5 +1,10 @@
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Fathin</h1>
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://github.com/fathinafiff/fathinafiff/blob/main/night-animation.gif">
+</div>
+
 I'm a Data and Machine Learning Enthusiast with a passion for numbers and a drive to learn and explore new skills.
 
 - ✨ Student of life :)
