@@ -9,7 +9,7 @@ I'm a Data and Machine Learning Enthusiast with a passion for numbers and a driv
 
 - ✨ Student of life :)
 - 🏙  I'm currently working as data analyst @[Sejasa](https://sejasa.com).
-- ✍ Sharing my knowledge at [Yooutube](https://www.youtube.com/@tinapyp) and [DEV](https://sejasa.com) DEV.
+- ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://sejasa.com) DEV.
 - ❤ Learning many things, I believe that everyday is a learning opportunity.
 
 Check out my website & portfolio [here](http://fathinafiff.github.io/)
