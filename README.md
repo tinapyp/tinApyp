@@ -1,6 +1,6 @@
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Fathin</h1>
 
-I'm Fathin, a Data and Machine Learning Enthusiast with a passion for numbers and a drive to learn and explore new skills.
+I'm a Data and Machine Learning Enthusiast with a passion for numbers and a drive to learn and explore new skills.
 
 - ✨ Student of life :)
 - 🏙  I'm currently working as data analyst @[Sejasa](https://sejasa.com).
