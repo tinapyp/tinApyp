@@ -8,7 +8,7 @@
 I'm a Data and Machine Learning Enthusiast with a passion for numbers and a drive to learn and explore new skills.
 
 - ✨ Student of life :)
-- 🏙  I'm currently working as data analyst @[Sejasa](https://sejasa.com).
+- 🏙  I'm currently working as data analyst [@Sejasa](https://sejasa.com).
 - ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://sejasa.com).
 - ❤ Learning many things, I believe that everyday is a learning opportunity.
 
