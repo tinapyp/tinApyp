@@ -18,10 +18,10 @@ Check out my website & portfolio [here](http://fathinafiff.github.io/)
 
 Proficient in the following tools and technologies:
 
-- **Excel/Spreadsheet**
+- **Python**
 - **SQL**
 - **Data Visualization: Tableau, PowerBI, Google Data Studio, Looker Studio**
-- **Python**
+- **Excel/Spreadsheet**
 
 ## 🌎 Let's Connect!
 
