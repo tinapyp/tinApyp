@@ -1,6 +1,6 @@
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Fathin</h1>
 
-<!--Night Owl image-->
+<!--image-->
 <div>
   <img align="right" width="40%" src="https://github.com/fathinafiff/fathinafiff/blob/main/night-animation.gif">
 </div>
@@ -9,8 +9,8 @@ I'm a Data and Machine Learning Enthusiast with a passion for numbers and a driv
 
 - ✨ Student of life :)
 - 🏙  I'm currently working as data analyst [@Sejasa](https://sejasa.com).
-- ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://sejasa.com).
-- ❤ Learning many things, I believe that everyday is a learning opportunity.
+- ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://dev.to/fathinafiff).
+- ❤ Learning many things, I believe every day is a learning opportunity.
 
 Check out my website & portfolio [here](http://fathinafiff.github.io/)
 
