@@ -1,3 +1,5 @@
+-> Kirim report behaviour ke channel
+
 <h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Fathin</h1>
 
 <!--image-->
@@ -15,13 +17,14 @@ I'm a Data and Machine Learning Enthusiast with a passion for numbers and a driv
 Check out my website & portfolio [here](http://fathinafiff.github.io/)
 
 ## 🛠️ Tools and Skills
-
-Proficient in the following tools and technologies:
-
-- **Python**
-- **SQL**
-- **Data Visualization: Tableau, PowerBI, Google Data Studio, Looker Studio**
-- **Excel/Spreadsheet**
+- **Programming Languages:** Python, SQL
+- **Machine Learning Libraries:** TensorFlow, Scikit-learn
+- **Database Management:** MySQL, PostgreSQL
+- **Version Control:** Git
+- **Containerization:** Docker
+- **Web Frameworks:** FastAPI, Flask
+- **Operating Systems:** Linux
+- **IDE:** Visual Studio Code, Jupyter Notebook
 
 ## 🌎 Let's Connect!
 
