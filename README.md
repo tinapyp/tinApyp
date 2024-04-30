@@ -12,7 +12,7 @@ I'm a Data and Machine Learning Enthusiast with a passion for numbers and a driv
 - ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://dev.to/tinapyp).
 - ❤ Learning many things, I believe every day is a learning opportunity.
 
-Check out my website & portfolio [here](http://fathinafiff.github.io/)
+Check out my website & portfolio [here](http://tinapyp.github.io)
 
 ## 🛠️ Tools and Skills
 - **Programming Languages:** Python, SQL
@@ -28,6 +28,6 @@ Check out my website & portfolio [here](http://fathinafiff.github.io/)
 
 I'm open to new opportunities and collaborations. Let's connect and discuss how we can leverage data for informed decision-making!
 
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fathinafiff)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tinapyp)
 
 Looking forward to connecting with you! 🌟
