@@ -12,12 +12,12 @@ I'm a Data and Machine Learning Enthusiast with a passion for numbers and a driv
 - ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://dev.to/tinapyp).
 - ❤ Learning many things, I believe every day is a learning opportunity.
 
-Check out my website & portfolio [here](http://tinapyp.github.io)
+Check out my website & portfolio [here](http://tinapyp.com)
 
 ## 🛠️ Tools and Skills
 - **Programming Languages:** Python, SQL
 - **Machine Learning Libraries:** TensorFlow, Scikit-learn
-- **Database Management:** MySQL, PostgreSQL
+- **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git
 - **Containerization:** Docker
 - **Web Frameworks:** FastAPI, Flask
