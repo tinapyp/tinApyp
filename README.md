@@ -5,7 +5,7 @@
   <img align="right" width="40%" src="https://github.com/fathinafiff/fathinafiff/blob/main/night-animation.gif">
 </div>
 
-I'm a Data and Machine Learning Enthusiast with a passion for numbers and a drive to learn and explore new skills.
+Hi, I'm Fathin, a Data Enthusiast who love to build and use AI to empower life become easier.
 
 - ✨ Student of life :)
 - 🏙  I'm currently working as data analyst [@Sejasa](https://sejasa.com).
