@@ -5,8 +5,6 @@
   <img align="right" width="40%" src="https://github.com/fathinafiff/fathinafiff/blob/main/night-animation.gif">
 </div>
 
-Hi, I'm Fathin, a Data Enthusiast who love to build and use AI to empower life become easier.
-
 - ✨ Student of life :)
 - 🏙  I'm currently working as data analyst [@Sejasa](https://sejasa.com).
 - ✍ Sharing my knowledge at [Youtube](https://www.youtube.com/@tinapyp) and [DEV](https://dev.to/tinapyp).
